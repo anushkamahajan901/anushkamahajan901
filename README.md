@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anushkamahajan901
-- 👀 I’m interested in web development n designing domain.
+- 👀 I’m interested in web development and designing domain.
 - 🌱 I’m currently learning JavaScript.
 - 📫 anushkamahajan901@gmail.com
 
